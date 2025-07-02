@@ -14,9 +14,13 @@ This is a modern and responsive personal portfolio/contact webpage designed and 
 
 ## 📂 Project Structure
 ├── index.html # Main landing page
+
 ├── thank-you.html # Confirmation page after contact form submission
+
 ├── css/ # Stylesheet folder (if any)
+
 ├── images/ # Icons, logos, or media (if used)
+
 └── assets/ # Additional assets (optional)
 
 ## 📬 Contact Form Details
