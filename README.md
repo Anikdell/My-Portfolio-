@@ -17,11 +17,11 @@ This is a modern and responsive personal portfolio/contact webpage designed and 
 
 ├── thank-you.html # Confirmation page after contact form submission
 
-├── css/ # Stylesheet folder (if any)
+├── css/ # Stylesheet folder
 
-├── images/ # Icons, logos, or media (if used)
+├── images/ # Icons, logos, or media
 
-└── assets/ # Additional assets (optional)
+└── assets/ # Additional assets
 
 ## 📬 Contact Form Details
 
